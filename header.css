@@ -20,3 +20,12 @@
     background-position:  center;
     display: inline-block;
 }
+.lista-menu_titulo{
+    color: var(--laranja);
+}
+.lista-menu{
+    display: none;
+    position:absolute;
+    top: 100%;
+    width: 60vw;
+}
