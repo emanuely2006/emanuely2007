@@ -42,3 +42,6 @@ background-color: var(--branco);
     width: 60vw;
 
 }
+.container_botao{
+    display: none;
+}
